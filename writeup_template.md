@@ -18,13 +18,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./example_images/undistort_output.png "Undistorted"
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./example_images/binary_combo.png "Binary Mask"
-[image4]: ./example_images/warped_test_lines.png "Warp Example"
-[image5]: ./example_images/color_fit_lines.png "Fit Visual"
+[image1]: https://github.com/toanhle93/P4/blob/master/example_images/undistort_output.PNG "Undistorted"
+[image2]: https://github.com/toanhle93/P4/blob/master/test_images/test1.jpg "Road Transformed"
+[image3]: https://github.com/toanhle93/P4/blob/master/example_images/binary_combo.PNG "Binary Mask"
+[image4]: https://github.com/toanhle93/P4/blob/master/example_images/warped_test_lines.PNG "Warp Example"
+[image5]: https://github.com/toanhle93/P4/blob/master/example_images/color_fit_lines.PNG "Fit Visual"
 [image6]: https://github.com/toanhle93/P4/blob/master/example_images/Output.PNG "Output"
-[video1]: ./project_video_out.mp4 "Video"
+[video1]: https://github.com/toanhle93/P4/blob/master/project_video_out.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
