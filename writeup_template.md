@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image3]: ./example_images/binary_combo.png "Binary Mask"
 [image4]: ./example_images/warped_test_lines.png "Warp Example"
 [image5]: ./example_images/color_fit_lines.png "Fit Visual"
-[image6]: ./example_images/output.png "Output"
+[image6]: https://github.com/toanhle93/P4/blob/master/example_images/Output.PNG "Output"
 [video1]: ./project_video_out.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
